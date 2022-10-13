@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pjendara@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pjendara/](https://www.linkedin.com/in/pjendara/)
+- 📄 Know about my experiences [https://pjota-lab.vercel.app/](https://pjota-lab.vercel.app/)
 
 - ⚡ Fun fact **I sing and have a radio show**
 
